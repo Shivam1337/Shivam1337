@@ -1,9 +1,10 @@
 import './App.css';
+import resume from './resume.jpg';
 
 function App() {
   return (
     <div className="App">
-      Welcome
+      <img className="resume" src={resume} alt="resume"/>
     </div>
   );
 }
