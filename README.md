@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/enthusiastshiv" target="blank"><img src="https://img.shields.io/twitter/follow/enthusiastshiv?logo=twitter&style=for-the-badge" alt="enthusiastshiv" /></a> </p>
 
-- 🔭 I’m currently working on [Cyberdeck](https://cyberdeck.io)
+<!-- - 🔭 I’m currently working on **Software ** -->
 
 - 🌱 I’m currently learning **Blockchain & Distributed Systems**
 
