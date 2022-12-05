@@ -1,20 +1,20 @@
 <h1 align="center">Hi 👋, I'm Shivam Shinde</h1>
 <h3 align="center">I’m a software engineer who enjoys working with people and computers to create the future. I create tools, products, and services that people LOVE to use</h3>
 
-<p align="left"> <a href="https://twitter.com/enthusiastshiv" target="blank"><img src="https://img.shields.io/twitter/follow/enthusiastshiv?logo=twitter&style=for-the-badge" alt="enthusiastshiv" /></a> </p>
+<p align="center"> <a href="https://twitter.com/shivam_1337" target="blank"><img src="https://img.shields.io/twitter/follow/shivam_1337?logo=twitter&style=for-the-badge" alt="enthusiastshiv" /></a> </p>
 
 <!-- - 🔭 I’m currently working on **Software ** -->
 
-- 🌱 I’m currently learning **Blockchain & Distributed Systems**
+- 🌱 I’m currently working on **SaaS Products & Tools**
 
-- 💬 Ask me about **Machine learning, Full Stack Development, HFT Systems**
+- 💬 Ask me about **Machine learning, Full Stack Development, Blockchain & Distributed Systems, HFT Systems**
 
 - 📫 You can reach me here  **shivamshinde883@gmail.com** or **mail@shivamshinde.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/enthusiastshiv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="enthusiastshiv" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shivamshindeofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivamshindeofficial" height="30" width="40" /></a>
+<a href="https://twitter.com/shivam_1337" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shivam_1337" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shivam1337" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivam1337" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
